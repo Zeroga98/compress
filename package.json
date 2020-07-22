@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "nexe index.js --output autogermana"
+    "build": "NAME=autogermanaCompress && nexe index.js --output AutogermanaCompress",
+    "build:bmw": " nexe bmw.js --output BmwCompress",
+    "build:mini": " nexe mini.js --output MiniCompress",
+    "build:motorrad": " nexe motorrad.js --output MotorradCompress"
   },
   "author": "https://github.com/Zeroga98",
   "license": "ISC",
