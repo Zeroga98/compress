@@ -1,7 +1,0 @@
-File from: [../bmw/**/*.{jpg,JPG,jpeg,JPEG}]
-
-File to: [-]
-
-Compression algorithm: [-]
-
-Description:  Directory is empty!: 
